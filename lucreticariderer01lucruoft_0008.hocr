@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lucreticariderer01lucruoft_0008.png"; bbox 0 0 1997 3267; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 315 1532 1612 1572">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 315 1532 1612 1572">
+     <span class='ocr_line' id='line_1_1' title="bbox 315 1532 1612 1572; baseline -0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 315 1537 406 1568; x_wconf 75' lang='lat' dir='ltr'><strong><em>Firsc</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 428 1536 580 1572; x_wconf 74' lang='grc' dir='ltr'><em>Εάἰιίοη,</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 606 1534 699 1567; x_wconf 87' lang='grc'><strong>1864.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 746 1535 871 1567; x_wconf 75' lang='lat' dir='ltr'><em>Second</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 893 1535 1046 1572; x_wconf 66' lang='lat' dir='ltr'><em>Editioen,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1071 1533 1162 1566; x_wconf 85' lang='lat'>1866.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1216 1533 1318 1565; x_wconf 80' lang='lat' dir='ltr'><em>Third</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1341 1533 1493 1570; x_wconf 67' lang='lat' dir='ltr'><em>Baition,</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1518 1532 1612 1566; x_wconf 84' lang='lat'>1873.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 495 1598 1435 1692">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 495 1598 1435 1692">
+     <span class='ocr_line' id='line_1_2' title="bbox 495 1598 1435 1639; baseline -0.004 -8"><span class='ocrx_word' id='word_1_10' title='bbox 495 1600 622 1632; x_wconf 77' lang='lat' dir='ltr'><em>Fourth</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 642 1600 783 1631; x_wconf 77' lang='lat' dir='ltr'><em>Revised</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 803 1600 956 1638; x_wconf 76' lang='lat' dir='ltr'><strong><em>Edition,</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 981 1599 1074 1632; x_wconf 84' lang='lat'><strong>1886.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1120 1598 1313 1639; x_wconf 78' lang='lat' dir='ltr'><strong><em>Reprinted,</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1341 1598 1435 1630; x_wconf 80' lang='lat'>1893.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 914 1659 1011 1692; baseline 0 -2"><span class='ocrx_word' id='word_1_16' title='bbox 914 1659 1011 1692; x_wconf 89' lang='grc'>1900.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 551 1801 1659 2443">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 551 1801 1659 2443">
+     <span class='ocr_line' id='line_1_4' title="bbox 551 1801 1659 2443; baseline 0.018 -20"><span class='ocrx_word' id='word_1_17' title='bbox 551 2022 901 2423; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1016 1801 1659 2443; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
